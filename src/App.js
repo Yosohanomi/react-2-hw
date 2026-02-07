@@ -3,7 +3,7 @@ import { Message } from "./components/Message/Message";
 import { Button } from "./components/Button/Button";
 
 function btnClickFunc () {
-  alert("Ви натиснули!")
+  console.log('Ви натиснули!');
 }
 
 function App() {
